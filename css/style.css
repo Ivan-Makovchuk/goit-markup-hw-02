@@ -49,7 +49,7 @@
 .add-adress-class:hover{
     color: #404bbf;
 }
-.add-adress-class:active{
+.add-adress-class:focus{
     color: #404bbf;
 }
 .fut-class{
