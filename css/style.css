@@ -1,0 +1,156 @@
+.page-title{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:  #FFFFFF;
+}
+.header{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.garden{
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.span{
+    color:  #2e2f42;
+}
+.krater{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.krater:hover{
+    color: #404bbf;
+}
+.krater:focus{
+    color: #404bbf;
+}
+.address-class{
+    font-style: normal;
+}
+.add-adress-class{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.add-adress-class:hover{
+    color: #404bbf;
+}
+.add-adress-class:active{
+    color: #404bbf;
+}
+.fut-class{
+    background-color: #2e2f42;
+}
+.a-fut-class{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.span-class-fut{
+    color:#4d5ae5;
+}
+.p-class-fut{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.section-one-class{
+    background-color: #2e2f42;
+}
+.one-h-class{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button-h-one{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.button-h-one:hover{
+    background-color: #404BBF;
+}
+.button-h-one:focus{
+    background-color: #404BBF;
+}
+.advanteges-class{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.p-advanteges-class{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:  #434455;
+}
+.team-class{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.teg-two-class{
+    background-color: #FFFFFF;
+}
+.h-three-class{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.p-three-class{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.h-four-class{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.section-two-class{
+    background-color: #F4F4FD;
+}
+.p-class-fut-two{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.span-class-fut-two{
+    color: #f4f4fd;
+}
